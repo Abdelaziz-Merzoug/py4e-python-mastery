@@ -1,70 +1,70 @@
-## 🧠 Chapter 1: Python for Everybody Quiz Summary
-This quiz documents the foundational concepts of computer architecture and the Python language explored in Chapter 1.
+# 🧠 Python for Everybody: Chapter 1 Quiz Summary
+**Student:** Abdelaziz Merzoug  
+**Course:** Python for Everybody
 
-### 1. Interactive Mode
-Question: When Python is running in the interactive mode and displaying the chevron prompt (>>>) - what question is Python asking you?
+---
 
-**Answer**: What Python statement would you like me to run?
+### 🖥️ Section 1: Interaction & Environment
 
-### 2. Sequential Programming Logic
-Question: What will the following program print out?
+**Q1: Interactive Mode**
+* **Question:** When Python is running in the interactive mode and displaying the chevron prompt (`>>>`) - what question is Python asking you?
+* **Answer:** "What Python statement would you like me to run?"
 
-Python
-x = 15
-x = x + 5
-print(x)
+**Q3: File Conventions**
+* **Question:** Python scripts (files) have names that end with:
+* **Answer:** `.py`
 
-**Answer**: 20  
+**Q6: Terminating a Session**
+* **Question:** What is the proper way to say “good-bye” to Python?
+* **Answer:** `quit()`
 
-Note: The program adds 5 to the initial variable value.
+---
 
-### 3. File Conventions
-Question: Python scripts (files) have names that end with:
+### ⚙️ Section 2: Computer Architecture & Hardware
 
-**Answer**: .py
+**Q7: Hardware Execution**
+* **Question:** Which of the parts of a computer actually executes the program instructions?
+* **Answer:** **Central Processing Unit (CPU)**
 
-### 4. Reserved Words (Single Choice)
-Question: Which of these words is a reserved word in Python?
+**Q9: Computer Storage**
+* **Question:** A USB memory stick is an example of which of the following components of computer architecture?
+* **Answer:** **Secondary Memory**
 
-**Answer**: while
+---
 
-### 5. Reserved Words (Multiple Choice)
-Question: Which of these words are reserved words in Python?
+### 📝 Section 3: Programming Logic & Syntax
 
-**Answer**: if and break
+**Q2: Sequential Programming Logic**
+* **Question:** What will the following program print out?
+    ```python
+    x = 15
+    x = x + 5
+    print(x)
+    ```
+* **Answer:** `20`
+* **Logic:** The program adds 5 to the initial variable value.
 
-### 6. Terminating a Session
-Question: What is the proper way to say “good-bye” to Python?
+**Q4: Reserved Words (Single Choice)**
+* **Question:** Which of these words is a reserved word in Python?
+* **Answer:** `while`
 
-**Answer**: quit()
+**Q5: Reserved Words (Multiple Choice)**
+* **Question:** Which of these words are reserved words in Python?
+* **Answer:** `if` and `break`
 
-### 7. Hardware Execution
-Question: Which of the parts of a computer actually executes the program instructions?
+**Q8: Defining "Code"**
+* **Question:** What is "code" in the context of this course?
+* **Answer:** A sequence of instructions in a programming language.
 
-**Answer**: Central Processing Unit (CPU)
+**Q10: Understanding Errors**
+* **Question:** What is the best way to think about a "Syntax Error" while programming?
+* **Answer:** The computer did not understand the statement that you entered.
 
-### 8. Defining "Code"
-Question: What is "code" in the context of this course?
+---
 
-**Answer**: A sequence of instructions in a programming language
+### 🔄 Section 4: Programming Patterns
 
-### 9. Computer Storage
-Question: A USB memory stick is an example of which of the following components of computer architecture?
-
-**Answer**: Secondary Memory
-
-### 10. Understanding Errors
-Question: What is the best way to think about a "Syntax Error" while programming?
-
-**Answer**: The computer did not understand the statement that you entered
-
-### 11. Programming Patterns
-Question: Which of the following is not one of the programming patterns covered in Chapter 1?
-
-**Answer**: Random steps
-
-Note: The three patterns covered are Sequential, Conditional, and Repeated.
-
-Student Name: Abdelaziz Merzoug
-
-Course: Python for Everybody
+**Q11: Patterns covered in Chapter 1**
+* **Question:** Which of the following is **not** one of the programming patterns covered in Chapter 1?
+* **Answer:** Random steps
+* **Note:** The three patterns covered are **Sequential**, **Conditional**, and **Repeated**.
