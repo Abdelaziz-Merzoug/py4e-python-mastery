@@ -60,7 +60,7 @@ Every program follows this repeatable workflow:
 
 ## 📂 Practice Files Created
 * `hello.py`: Initial test script to verify environment output.
-* `main.py`: Default template file for project logic.
+* `firstprog.py`: Default template file for project logic.
 
 ---
 *Copyright Note: Content based on materials by Charles R. Severance (Creative Commons Attribution 4.0)*
