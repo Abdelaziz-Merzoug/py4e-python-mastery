@@ -27,7 +27,6 @@ else:
         grade = 'D'
     else:
         grade = 'F'
-
     # Print the grade
     print(grade)
 
