@@ -31,7 +31,7 @@ The repository is organized by lesson modules, each containing theory, assessmen
 ### 2. Logic & Error Handling
 * Implemented multi-way decision structures using `if`, `elif`, and `else`.
 * Utilized the **Safety Net (`try/except`)** to prevent program crashes during invalid data input.
-* Applied the **Guardian Pattern** to handle potential logic failures, such as preventing division by zero using short-circuiting: `$x>=2$ and $y!=0$ and $(x/y)>2$`.
+* Applied the **Guardian Pattern** to handle potential logic failures, such as preventing division by zero using short-circuiting: `x>=2 and y!=0 and (x/y)>2`.
 
 ### 3. Functional Programming
 * Differentiated between **Arguments** (values passed) and **Parameters** (variable handles inside the function).
