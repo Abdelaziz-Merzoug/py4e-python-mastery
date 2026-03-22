@@ -14,7 +14,7 @@
 **Q3: String Concatenation**
 * **Question:** What does `print("123" + "abc")` print out?
 * **Answer:** `123abc.
-* **Logic:** For strings, the `+` operator performs "concatenation," which joins them end-to-en.
+* **Logic:** For strings, the `+` operator performs "concatenation," which joins them end-to-end.
 
 **Q13: Truncating with `int()`**
 * **Question:** What is the value of `x` in `x = int(98.6)`?
@@ -33,17 +33,17 @@
 **Q5: Invalid Variable Names**
 * **Question:** Which of the following is a bad Python variable name?
 * **Answer:** `23spam.
-* **Logic:** Variable names cannot start with a numbe.
+* **Logic:** Variable names cannot start with a number.
 
 **Q6: Mnemonic Variables**
 * **Question:** Which of the following variables is the "most mnemonic"?
 * **Answer:** `hours.
-* **Logic:** Mnemonic names act as memory aids to help humans understand the intent of the dat.
+* **Logic:** Mnemonic names act as memory aids to help humans understand the intent of the data.
 
 **Q7 & Q8: Reserved Words**
 * **Question:** Which of the following is not a Python reserved word?
 * **Answers:** `speed` and `iterate.
-* **Note:** Words like `if`, `for`, `else`, `break`, and `continue` are keywords reserved by Python for its structur.
+* **Note:** Words like `if`, `for`, `else`, `break`, and `continue` are keywords reserved by Python for its structure.
 
 ---
 
@@ -61,12 +61,12 @@
 **Q11: The Modulus Operator**
 * **Question:** What is the value of `42 % 10`?
 * **Answer:** `2.
-* **Logic:** The modulus operator `%` yields the remainder of a divisio.
+* **Logic:** The modulus operator `%` yields the remainder of a division.
 
 **Q12: Complex Expressions**
 * **Question:** What is the value of `x = 1 + 2 * 3 - 8 / 4`?
 * **Answer:** `5.0.
-* **Logic:** Multiplication and division are performed first (`6` and `2.0`), then addition and subtraction proceed left-to-right (`1 + 6 - 2.0 = 5.0`. Division in Python 3 always results in a floa.
+* **Logic:** Multiplication and division are performed first (`6` and `2.0`), then addition and subtraction proceed left-to-right (`1 + 6 - 2.0 = 5.0`. Division in Python 3 always results in a float.
 
 ---
 
@@ -80,4 +80,4 @@
 **Q14: The Input Function**
 * **Question:** What does the Python `input()` function do?
 * **Answer:** Pause the program and read data from the use.
-* **Logic:** This function returns the user's input as a strin.
+* **Logic:** This function returns the user's input as a string.
